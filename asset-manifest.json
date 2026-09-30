@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/AMEER-ELECTRICALS-PILERU/static/css/main.926f3c69.css",
+    "main.js": "/AMEER-ELECTRICALS-PILERU/static/js/main.d4ed2961.js",
+    "index.html": "/AMEER-ELECTRICALS-PILERU/index.html",
+    "main.926f3c69.css.map": "/AMEER-ELECTRICALS-PILERU/static/css/main.926f3c69.css.map",
+    "main.d4ed2961.js.map": "/AMEER-ELECTRICALS-PILERU/static/js/main.d4ed2961.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.926f3c69.css",
+    "static/js/main.d4ed2961.js"
+  ]
+}
